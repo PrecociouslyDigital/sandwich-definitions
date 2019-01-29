@@ -2,12 +2,12 @@
 
 ### Lemma 1. Definition of a distinct ingredient.
 Let a distinct ingredient be anything such that its chemical composition is normally distributed. 
-I.E, any contigous volume with genus 1 inside the ingredient must have a chemical composition
+I.E, any contigous volume with genus 0 inside the ingredient must have a chemical composition
 similar to that of the whole.  
 - A sausage is a distinct ingredient because cutting off a piece of the sausage will result 
 in a chunk of stuff with roughly similar chemical composition to the whole sausage
     - And you can't cheat and just pick say for example the casing because it has to have 
-    topological genus 1.
+    topological genus 0.
     - As a collary this makes things like hotdogs with jalapeño bits are not a single ingredient,
     which I argue is correct because the jalapeño is a distinct ingredient in the dog.
 - As a collary, two ingredients are distinct if you can draw a line through them them in a way that
