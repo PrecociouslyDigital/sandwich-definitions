@@ -2,7 +2,7 @@
 
 ### Lemma 1. Definition of a distinct ingredient.
 Let a distinct ingredient be anything such that its chemical composition is normally distributed. 
-I.E, any contigous volume with genus 0 inside the ingredient must have a chemical composition
+I.E, any voume bounded by a two-manifold with genus 0 inside the ingredient must have a chemical composition
 similar to that of the whole.  
 - A sausage is a distinct ingredient because cutting off a piece of the sausage will result 
 in a chunk of stuff with roughly similar chemical composition to the whole sausage
@@ -16,14 +16,14 @@ causes one to be seperatable from the other
 
 ### Proof 1. Definition of a sandwich
 A sandwich must filfull 3 distinct conditions:
-1. A sandwich must have one or more edible primarily carbohydrate portions with topological genus 0
-2. A sandwich must have two more more additional distinct ingredients, as defined by Lemma 1, unless .
+1. A sandwich must have one or more edible primarily carbohydrate portions bounded by any set of two-manifolds with topological genus 0
+2. A sandwich must have two more more additional distinct ingredients, as defined by Lemma 1, unless it has two or more seperate bounded sections.
 3. A sandwich's carbohydrate volume must form a convex hull that contain the entire sandwich, but whose 
 (regular, non-convex) hull does not contain the entire sandwich.
 
 ### Proof 2. Definition of a hotdog
 A hotdot must also filfull 3 distinct conditions:
-1. A hotdog must have only one edible primarily carbohydrate portions with topological genus 0
+1. A hotdog must have only one edible primarily carbohydrate portions bounded by any set of two-manifolds with topological genus 0
 2. A hotdog must have only one additional distinct solid ingredient, as defined by Lemma 1.
     - A hotdog may have any number of liquid distinct ingredients.
 3. A hotdog's carbohydrate volume must form a convex hull that contains 90% of the hotdog, but whose 
