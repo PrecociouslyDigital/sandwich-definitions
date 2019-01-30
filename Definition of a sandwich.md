@@ -10,7 +10,7 @@ in a chunk of stuff with roughly similar chemical composition to the whole sausa
     topological genus 0.
     - As a collary this makes things like hotdogs with jalapeño bits are not a single ingredient,
     which I argue is correct because the jalapeño is a distinct ingredient in the dog.
-- As a collary, two ingredients are distinct if you can draw a line through them them in a way that
+- As a collary, two ingredients are distinct if you can draw a surface through them them in a way that
 causes one to be seperatable from the other
     - If you have bacon on lettuce, you can draw a line that divides the bacon from the lettuce.
 
