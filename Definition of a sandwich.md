@@ -21,6 +21,7 @@ A sandwich must filfull 4 distinct conditions:
 3. A sandwich's carbohydrate volume must form a convex hull that contain the entire sandwich, but whose 
 (regular, non-convex) hull does not contain the entire sandwich.
 4. A sandwich must be macroscopic; i.e. visible to an unaided observer.
+    - Visibility will be defined as "above a human's absolute threshold for eyesight at 1m distance in a well-lit room."
 
 ### Definition 2. Definition of a hotdog
 A hotdot must also filfull 4 distinct conditions:
@@ -30,6 +31,7 @@ A hotdot must also filfull 4 distinct conditions:
 3. A hotdog's carbohydrate volume must form a convex hull that contains 90% of the hotdog, but whose 
 (regular, non-convex) hull does not contain the entire hotdog.
 4. A hotdog must be macroscopic; i.e. visible to an unaided observer.
+    - - Visibility will be defined as "above a human's absolute threshold for eyesight at 1m distance in a well-lit room."
 
 ### Definition 3. Definition of a salad
 A salad must fulfill 4 distinct conditions:
