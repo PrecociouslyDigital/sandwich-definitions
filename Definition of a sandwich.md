@@ -14,14 +14,14 @@ in a chunk of stuff with roughly similar chemical composition to the whole sausa
 causes one to be seperatable from the other
     - If you have bacon on lettuce, you can draw a line that divides the bacon from the lettuce.
 
-### Proof 1. Definition of a sandwich
+### Definition 1. Definition of a sandwich
 A sandwich must filfull 3 distinct conditions:
 1. A sandwich must have one or more edible primarily carbohydrate portions bounded by any set of two-manifolds with topological genus 0
 2. A sandwich must have two more more additional distinct ingredients, as defined by Lemma 1, unless it has two or more seperate bounded sections.
 3. A sandwich's carbohydrate volume must form a convex hull that contain the entire sandwich, but whose 
 (regular, non-convex) hull does not contain the entire sandwich.
 
-### Proof 2. Definition of a hotdog
+### Definition 2. Definition of a hotdog
 A hotdot must also filfull 3 distinct conditions:
 1. A hotdog must have only one edible primarily carbohydrate portions bounded by any set of two-manifolds with topological genus 0
 2. A hotdog must have only one additional distinct solid ingredient, as defined by Lemma 1.
@@ -29,7 +29,7 @@ A hotdot must also filfull 3 distinct conditions:
 3. A hotdog's carbohydrate volume must form a convex hull that contains 90% of the hotdog, but whose 
 (regular, non-convex) hull does not contain the entire hotdog.
 
-### Proof 3. Definition of a salad
+### Definition 3. Definition of a salad
 A salad must fulfill 4 distinct conditions:
 1. A salad can have its distinct ingredients seperated in half, and remixed back together, and still
 remain a salad.
@@ -39,7 +39,7 @@ still be considered a salad
 3. A salad must be less than 50% water
 4. A salad must be more than 90% edible by over 70% of the human population at any given time
 
-### Proof 4. Definition of a soup
+### Definition 4. Definition of a soup
 A soup must fulfill 3 distinct conditions:
 1. A soup can have its distinct ingredients seperated in half, and remixed back together, and still
 remain a soup.
