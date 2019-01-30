@@ -62,7 +62,12 @@ still be considered a soup
     - It has seperate top and bottom (usually)
 - What about a jam sandwich?
     - Again; seperate top and bottom.
-- Is lettuce with ranch in a bun a hotdog?
+- Why can't you require hot dogs to have sausages?
+    - My best friend is vegan.
+- Really?
+    - No. But my point still stands. Also, isn't this document already horrible enough? Do you want to try
+    defining what is and isn't a sausage?
+- So is lettuce with ranch in a bun a hotdog?
     - Yes.
 - What about 
 ![this](https://cook.fnr.sndimg.com/content/dam/images/cook/fullset/2012/6/7/0/CCWSTSP2_hot-dog-ice-cream-sandwich_s4x3.jpg.rend.hgtvcom.616.462.suffix/1351632244074.jpeg)
