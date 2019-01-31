@@ -2,21 +2,21 @@
 
 ### Lemma 1. Definition of a distinct ingredient.
 Let a distinct ingredient be anything such that its chemical composition is normally distributed. 
-I.E, any voume bounded by a two-manifold with genus 0 inside the ingredient must have a chemical composition
+I.E, any volume bounded by a two-manifold with genus 0 inside the ingredient must have a chemical composition
 similar to that of the whole.  
 - A sausage is a distinct ingredient because cutting off a piece of the sausage will result 
-in a chunk of stuff with roughly similar chemical composition to the whole sausage
+in a chunk of stuff with roughly similar chemical composition to the whole sausage.
     - And you can't cheat and just pick say for example the casing because it has to have 
     topological genus 0.
     - As a collary this makes things like hotdogs with jalapeño bits are not a single ingredient,
     which I argue is correct because the jalapeño is a distinct ingredient in the dog.
 - As a collary, two ingredients are distinct if you can draw a surface through them them in a way that
-causes one to be seperatable from the other
+causes one to be seperatable from the other.
     - If you have bacon on lettuce, you can draw a line that divides the bacon from the lettuce.
 
 ### Definition 1. Definition of a sandwich
 A sandwich must filfull 4 distinct conditions:
-1. A sandwich must have one or more edible primarily carbohydrate portions bounded by any set of two-manifolds with topological genus 0
+1. A sandwich must have one or more edible primarily carbohydrate portions bounded by any set of two-manifolds with topological genus 0.
 2. A sandwich must have two more more additional distinct ingredients, as defined by Lemma 1, unless it has two or more seperate bounded sections.
 3. A sandwich's carbohydrate volume must form a convex hull that contain the entire sandwich, but whose 
 (regular, non-convex) hull does not contain the entire sandwich.
@@ -24,7 +24,7 @@ A sandwich must filfull 4 distinct conditions:
     - Visibility will be defined as "above a human's absolute threshold for eyesight at 1m distance in a well-lit room."
 
 ### Definition 2. Definition of a hotdog
-A hotdot must also filfull 4 distinct conditions:
+A hotdot must also fulfill 4 distinct conditions:
 1. A hotdog must have only one edible primarily carbohydrate portions bounded by any set of two-manifolds with topological genus 0
 2. A hotdog must have only one additional distinct solid ingredient, as defined by Lemma 1.
     - A hotdog may have any number of liquid distinct ingredients.
@@ -38,20 +38,20 @@ A salad must fulfill 4 distinct conditions:
 1. A salad can have its distinct ingredients seperated in half, and remixed back together, and still
 remain a salad.
 2. A salad must be able to be mixed with any other salad, and ignoring resulting chemical reactions,
-still be considered a salad
-    - Collary: Salads formed a closed group over themselves.
-3. A salad must be less than 50% water
-4. A salad must be more than 90% edible by over 70% of the human population at any given time
+still be considered a salad.
+    - Collary: Salads form a closed group over themselves.
+3. A salad must be less than 50% water.
+4. A salad must be more than 90% edible by over 70% of the human population at any given time.
 
 ### Definition 4. Definition of a soup
 A soup must fulfill 3 distinct conditions:
 1. A soup can have its distinct ingredients seperated in half, and remixed back together, and still
 remain a soup.
 2. A soup must be able to be mixed with any other soup, and ignoring resulting chemical reactions,
-still be considered a soup
-    - Collary: Salads formed a closed group over themselves.
-3. A soup must be more than 50% water
-4. A soup must be more than 90% edible by over 70% of the human population at any given time
+still be considered a soup.
+    - Collary: Soups form a closed group over themselves.
+3. A soup must be more than 50% water.
+4. A soup must be more than 90% edible by over 70% of the human population at any given time.
 
 ### FAQ
 - Wait, does this mean that sushi (poptart, ravioli, etc.) is a sandwich?
