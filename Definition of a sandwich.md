@@ -15,19 +15,23 @@ causes one to be seperatable from the other.
     - If you have bacon on lettuce, you can draw a line that divides the bacon from the lettuce.
 
 ### Definition 1. Definition of a sandwich
-A sandwich must fulfull 3 distinct conditions:
+A sandwich must filfull 4 distinct conditions:
 1. A sandwich must have one or more edible primarily carbohydrate portions bounded by any set of two-manifolds with topological genus 0.
 2. A sandwich must have two more more additional distinct ingredients, as defined by Lemma 1, unless it has two or more seperate bounded sections.
 3. A sandwich's carbohydrate volume must form a convex hull that contain the entire sandwich, but whose 
 (regular, non-convex) hull does not contain the entire sandwich.
+4. A sandwich must be macroscopic; i.e. visible to an unaided observer.
+    - Visibility will be defined as "above a human's absolute threshold for eyesight at 1m distance in a well-lit room."
 
 ### Definition 2. Definition of a hotdog
-A hotdog must fulfull 3 distinct conditions:
-1. A hotdog must have only one edible primarily carbohydrate portions bounded by any set of two-manifolds with topological genus 0.
+A hotdot must also fulfill 4 distinct conditions:
+1. A hotdog must have only one edible primarily carbohydrate portions bounded by any set of two-manifolds with topological genus 0
 2. A hotdog must have only one additional distinct solid ingredient, as defined by Lemma 1.
     - A hotdog may have any number of liquid distinct ingredients.
 3. A hotdog's carbohydrate volume must form a convex hull that contains 90% of the hotdog, but whose 
 (regular, non-convex) hull does not contain the entire hotdog.
+4. A hotdog must be macroscopic; i.e. visible to an unaided observer.
+    - - Visibility will be defined as "above a human's absolute threshold for eyesight at 1m distance in a well-lit room."
 
 ### Definition 3. Definition of a salad
 A salad must fulfill 4 distinct conditions:
